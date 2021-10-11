@@ -1,6 +1,7 @@
 ---
 title: "About this site"
-description: |This is my site. Here it is
+description: |
+  This is my site. Here it is
   Some additional details about the website
 ---
 
